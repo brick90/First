@@ -2,3 +2,8 @@ gettitle()
 "IFSCL Randomizer"
 getsubtitle()
 "A Randomizer for IFSCL"
+getdescription(
+    "Gather paramaters from across the network to assemble a custom IFSCL Game."
+)
+createHost("Custom Game, 3x, 3y,"
+)
