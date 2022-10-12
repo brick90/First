@@ -1,0 +1,7 @@
+gettitle("IFSCL Randomizer")
+getsubtitle("A Randomizer for IFSCL")
+getdescription("Gather paramaters from across the network to assemble a custom IFSCL Game.")
+InitializeTestRun(4 testRun)
+onCycleFinished()
+createHost("Custom Game, 3x, 3y,"
+)
